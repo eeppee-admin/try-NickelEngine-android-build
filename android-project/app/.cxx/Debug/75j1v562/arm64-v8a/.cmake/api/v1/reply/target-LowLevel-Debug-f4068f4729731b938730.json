@@ -1,0 +1,741 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/api/src/px_globals.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/common/src/pipeline/PxcContactCache.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/common/src/pipeline/PxcContactMethodImpl.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/common/src/pipeline/PxcMaterialMethodImpl.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/common/src/pipeline/PxcNpBatch.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/common/src/pipeline/PxcNpCacheStreamPair.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/common/src/pipeline/PxcNpContactPrepShared.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/common/src/pipeline/PxcNpMemBlockPool.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/common/src/pipeline/PxcNpThreadContext.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/software/src/PxsCCD.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/software/src/PxsContactManager.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/software/src/PxsContext.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/software/src/PxsDefaultMemoryManager.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/software/src/PxsIslandSim.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/software/src/PxsNphaseImplementationContext.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevel.dir/./__/__/lowlevel/software/src/PxsSimpleIslandManager.cpp.o"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE",
+			"TARGET_COMPILE_DEFINITIONS",
+			"TARGET_INCLUDE_DIRECTORIES"
+		],
+		"files" : 
+		[
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/LowLevel.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/CMakeLists.txt",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 173,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 130,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 185,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 148,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -fno-rtti -fno-exceptions -ffunction-sections -fdata-sections -fvisibility=hidden -ffp-contract=off -fstrict-aliasing -ffp-exception-behavior=maytrap -ferror-limit=0 -Wall -Wextra -Werror -Weverything    -Wno-unused-but-set-variable     -Wno-switch-default     -Wno-cast-qual     -Wno-invalid-offsetof     -Wno-unsafe-buffer-usage     -Wno-alloca     -Wno-atomic-implicit-seq-cst     -Wno-c++98-compat-pedantic     -Wno-c++98-compat     -Wno-cast-align     -Wno-conversion     -Wno-covered-switch-default     -Wno-deprecated     -Wno-documentation-deprecated-sync     -Wno-documentation-unknown-command     -Wno-exit-time-destructors     -Wno-extra-semi-stmt     -Wno-float-equal     -Wno-format-nonliteral     -Wno-global-constructors     -Wno-implicit-fallthrough     -Wno-inconsistent-missing-destructor-override     -Wno-inconsistent-missing-override     -Wno-missing-noreturn     -Wno-missing-prototypes     -Wno-missing-variable-declarations     -Wno-newline-eof     -Wno-non-virtual-dtor     -Wno-old-style-cast     -Wno-padded     -Wno-reserved-id-macro     -Wno-suggest-destructor-override     -Wno-suggest-override     -Wno-switch-enum     -Wno-undef     -Wno-undefined-reinterpret-cast     -Wno-unknown-warning-option     -Wno-unreachable-code     -Wno-unused-function     -Wno-unused-macros     -Wno-unused-member-function     -Wno-unused-private-field     -Wno-used-but-marked-unused     -Wno-weak-template-vtables     -Wno-weak-vtables     -Wno-zero-as-null-pointer-constant     -Wno-reserved-identifier     -Wno-undefined-func-template  -O0 -g3 -gdwarf-2 -fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 6,
+					"define" : "PX_CHECKED=1"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "PX_DEBUG=1"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "PX_NVTX=0"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "PX_PHYSX_STATIC_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "PX_PUBLIC_RELEASE=1"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "PX_SUPPORT_OMNI_PVD=0"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "PX_SUPPORT_PVD=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/Common/src/linux"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/LowLevel/software/include/linux"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/LowLevelDynamics/include/linux"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/LowLevel/common/include/pipeline/linux"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/common/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/common/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/physxgpu/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/contact"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/common"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/convex"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/distance"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/sweep"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/gjk"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/intersection"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/mesh"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/hf"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/pcm"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/ccd"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/collision"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/utils"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/shared"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				12,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			}
+		}
+	],
+	"folder" : 
+	{
+		"name" : "PhysX SDK"
+	},
+	"id" : "LowLevel::@bf751d193ff8fef5a3bd",
+	"name" : "LowLevel",
+	"paths" : 
+	{
+		"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin",
+		"source" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "API Includes",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"name" : "API Source",
+			"sourceIndexes" : 
+			[
+				12
+			]
+		},
+		{
+			"name" : "Common Includes\\collision",
+			"sourceIndexes" : 
+			[
+				13
+			]
+		},
+		{
+			"name" : "Common Includes\\pipeline",
+			"sourceIndexes" : 
+			[
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"name" : "Common Source\\pipeline",
+			"sourceIndexes" : 
+			[
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		},
+		{
+			"name" : "Common Includes\\utils",
+			"sourceIndexes" : 
+			[
+				32,
+				33
+			]
+		},
+		{
+			"name" : "Software Includes",
+			"sourceIndexes" : 
+			[
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52
+			]
+		},
+		{
+			"name" : "Software Source",
+			"sourceIndexes" : 
+			[
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxsMaterialShared.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxsMaterialCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxsDeformableSurfaceMaterialCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxsDeformableVolumeMaterialCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxsPBDMaterialCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxsMaterialManager.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxvConfig.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxvDynamics.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxvGeometry.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxvGlobals.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxvManager.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include/PxvSimStats.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/api/src/px_globals.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/collision/PxcContactMethodImpl.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcConstraintBlockStream.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcContactCache.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcMaterialMethodImpl.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcNpBatch.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcNpCache.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcNpCacheStreamPair.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcNpContactPrepShared.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcNpMemBlockPool.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcNpThreadContext.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/PxcNpWorkUnit.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/src/pipeline/PxcContactCache.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/src/pipeline/PxcContactMethodImpl.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/src/pipeline/PxcMaterialMethodImpl.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/src/pipeline/PxcNpBatch.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/src/pipeline/PxcNpCacheStreamPair.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/src/pipeline/PxcNpContactPrepShared.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/src/pipeline/PxcNpMemBlockPool.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/src/pipeline/PxcNpThreadContext.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/utils/PxcScratchAllocator.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/utils/PxcThreadCoherentCache.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsCCD.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsContactManager.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsContactManagerState.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsContext.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsHeapMemoryAllocator.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsIslandManagerTypes.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsIslandSim.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsPartitionEdge.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsKernelWrangler.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsMaterialCombiner.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsMemoryManager.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsNphaseImplementationContext.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsRigidBody.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsParticleBuffer.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsSimpleIslandManager.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsSimulationController.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsTransformCache.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxsNphaseCommon.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/PxvNphaseImplementationContext.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/src/PxsCCD.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/src/PxsContactManager.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/src/PxsContext.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/src/PxsDefaultMemoryManager.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/src/PxsIslandSim.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/src/PxsNphaseImplementationContext.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowlevel/software/src/PxsSimpleIslandManager.cpp",
+			"sourceGroupIndex" : 7
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

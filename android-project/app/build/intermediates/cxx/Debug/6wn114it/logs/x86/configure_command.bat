@@ -1,0 +1,19 @@
+@echo off
+"C:\\Users\\fuckerfucker\\AppData\\Local\\Android\\Sdk\\cmake\\4.0.2\\bin\\cmake.exe" ^
+  "-HC:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=21" ^
+  "-DANDROID_ABI=x86" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=x86" ^
+  "-DANDROID_NDK=C:\\Users\\fuckerfucker\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\fuckerfucker\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\fuckerfucker\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=C:\\Users\\fuckerfucker\\AppData\\Local\\Android\\Sdk\\cmake\\4.0.2\\bin\\ninja.exe" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\build\\intermediates\\cxx\\Debug\\6wn114it\\obj\\x86" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\build\\intermediates\\cxx\\Debug\\6wn114it\\obj\\x86" ^
+  "-DCMAKE_BUILD_TYPE=Debug" ^
+  "-BC:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\x86" ^
+  -GNinja ^
+  "-DANDROID_PLATFORM=android-21" ^
+  "-DANDROID_STL=c++_static"

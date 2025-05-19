@@ -1,0 +1,4 @@
+com.visualgmq.nickelengine.test.app-androidTest-0 C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\build\generated\res\resValues\androidTest\debug
+com.visualgmq.nickelengine.test.app-mergeDebugAndroidTestResources-1 C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.visualgmq.nickelengine.test.app-mergeDebugAndroidTestResources-2 C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.visualgmq.nickelengine.test.app-debugAndroidTest-3 C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

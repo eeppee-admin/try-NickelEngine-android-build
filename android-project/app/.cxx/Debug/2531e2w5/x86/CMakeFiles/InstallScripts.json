@@ -1,0 +1,27 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/physx/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/physx/physx/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/physx/physx/compiler/public/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/physx/physx/compiler/public/pvdruntime_bin/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/physx/blast/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/physx/blast/3rdlibs/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/physx/blast/3rdlibs/multiprecision/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/SDL/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/volk/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/imgui/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/stb/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/spdlog/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/tinygltf/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/tomlplusplus/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/implot/cmake_install.cmake",
+		"C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/main_entry/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

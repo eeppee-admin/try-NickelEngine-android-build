@@ -1,0 +1,9 @@
+set(CMAKE_POLICY_DEFAULT_CMP0077 NEW)
+set(CATCH_INSTALL_DOCS OFF)
+set(CATCH_INSTALL_EXTRAS OFF)
+set(CATCH_DEVELOPMENT_BUILD OFF)
+set(CATCH_ENABLE_REPRODUCIBLE_BUILD OFF)
+add_subdirectory(Catch2)
+
+mark_as_3rdlib(Catch2)
+mark_as_3rdlib(Catch2WithMain)

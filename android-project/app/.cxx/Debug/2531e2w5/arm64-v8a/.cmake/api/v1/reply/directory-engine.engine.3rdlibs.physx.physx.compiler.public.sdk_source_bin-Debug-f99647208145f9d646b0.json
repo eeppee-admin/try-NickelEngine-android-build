@@ -1,0 +1,1297 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"include",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXFoundation.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXFoundation.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/CMakeLists.txt",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysX.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysX.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXExtensions.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXCharacterKinematic.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXCommon.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXCooking.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXVehicle.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXVehicle2.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXTask.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 172,
+				"parent" : 2
+			},
+			{
+				"file" : 1,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 4
+			},
+			{
+				"file" : 0,
+				"parent" : 5
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 74,
+				"parent" : 6
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 6
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 76,
+				"parent" : 6
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 130,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 176,
+				"parent" : 2
+			},
+			{
+				"file" : 5,
+				"parent" : 11
+			},
+			{
+				"command" : 1,
+				"file" : 5,
+				"line" : 40,
+				"parent" : 12
+			},
+			{
+				"file" : 4,
+				"parent" : 13
+			},
+			{
+				"command" : 0,
+				"file" : 4,
+				"line" : 66,
+				"parent" : 14
+			},
+			{
+				"command" : 0,
+				"file" : 4,
+				"line" : 67,
+				"parent" : 14
+			},
+			{
+				"command" : 0,
+				"file" : 5,
+				"line" : 338,
+				"parent" : 12
+			},
+			{
+				"command" : 0,
+				"file" : 5,
+				"line" : 339,
+				"parent" : 12
+			},
+			{
+				"command" : 0,
+				"file" : 5,
+				"line" : 340,
+				"parent" : 12
+			},
+			{
+				"command" : 0,
+				"file" : 5,
+				"line" : 341,
+				"parent" : 12
+			},
+			{
+				"command" : 0,
+				"file" : 5,
+				"line" : 342,
+				"parent" : 12
+			},
+			{
+				"command" : 0,
+				"file" : 5,
+				"line" : 343,
+				"parent" : 12
+			},
+			{
+				"command" : 0,
+				"file" : 5,
+				"line" : 344,
+				"parent" : 12
+			},
+			{
+				"command" : 0,
+				"file" : 5,
+				"line" : 346,
+				"parent" : 12
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 177,
+				"parent" : 2
+			},
+			{
+				"file" : 6,
+				"parent" : 25
+			},
+			{
+				"command" : 0,
+				"file" : 6,
+				"line" : 334,
+				"parent" : 26
+			},
+			{
+				"command" : 0,
+				"file" : 6,
+				"line" : 335,
+				"parent" : 26
+			},
+			{
+				"command" : 0,
+				"file" : 6,
+				"line" : 336,
+				"parent" : 26
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 178,
+				"parent" : 2
+			},
+			{
+				"file" : 7,
+				"parent" : 30
+			},
+			{
+				"command" : 0,
+				"file" : 7,
+				"line" : 79,
+				"parent" : 31
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 179,
+				"parent" : 2
+			},
+			{
+				"file" : 8,
+				"parent" : 33
+			},
+			{
+				"command" : 0,
+				"file" : 8,
+				"line" : 625,
+				"parent" : 34
+			},
+			{
+				"command" : 0,
+				"file" : 8,
+				"line" : 626,
+				"parent" : 34
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 180,
+				"parent" : 2
+			},
+			{
+				"file" : 9,
+				"parent" : 37
+			},
+			{
+				"command" : 0,
+				"file" : 9,
+				"line" : 70,
+				"parent" : 38
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 181,
+				"parent" : 2
+			},
+			{
+				"file" : 10,
+				"parent" : 40
+			},
+			{
+				"command" : 0,
+				"file" : 10,
+				"line" : 102,
+				"parent" : 41
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 182,
+				"parent" : 2
+			},
+			{
+				"file" : 11,
+				"parent" : 43
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 227,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 228,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 229,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 230,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 231,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 232,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 233,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 234,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 235,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 236,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 237,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 238,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 239,
+				"parent" : 44
+			},
+			{
+				"command" : 0,
+				"file" : 11,
+				"line" : 240,
+				"parent" : 44
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 186,
+				"parent" : 2
+			},
+			{
+				"file" : 12,
+				"parent" : 59
+			},
+			{
+				"command" : 0,
+				"file" : 12,
+				"line" : 54,
+				"parent" : 60
+			},
+			{
+				"command" : 0,
+				"file" : 2,
+				"line" : 209,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "include/foundation/unix/neon",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/neon/PxUnixNeonAoS.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/neon/PxUnixNeonInlineAoS.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "include/foundation/unix/sse2",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/sse2/PxUnixSse2AoS.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/sse2/PxUnixSse2InlineAoS.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "include/foundation/unix",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixMathIntrinsics.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixIntrinsics.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixAoS.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixInlineAoS.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixTrigConstants.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixFPU.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "include/foundation",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxFoundation.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxAssert.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxFoundationConfig.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxMathUtils.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxAlignedMalloc.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxAllocatorCallback.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxProfiler.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxAoS.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxAlloca.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxAllocator.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxArray.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxAtomic.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxBasicTemplates.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxBitMap.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxBitAndData.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxBitUtils.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxBounds3.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxBroadcast.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxConstructor.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxErrorCallback.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxErrors.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxFlags.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxFPU.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxInlineAoS.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxIntrinsics.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxHash.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxHashInternals.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxHashMap.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxHashSet.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxInlineAllocator.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxInlineArray.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxPinnedArray.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxMathIntrinsics.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxMutex.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxIO.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxMat33.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxMat34.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxMat44.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxMath.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxMemory.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxPlane.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxPool.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxPreprocessor.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxQuat.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxPhysicsVersion.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxSortInternals.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxSimpleTypes.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxSList.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxSocket.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxSort.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxStrideIterator.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxString.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxSync.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxTempAllocator.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxThread.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxTransform.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxTime.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxUnionCast.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxUserAllocated.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxUtilities.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVec2.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVec3.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVec4.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVecMath.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVecMathAoSScalar.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVecMathAoSScalarInline.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVecMathSSE.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVecQuat.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxVecTransform.h",
+				"engine/engine/3rdlibs/physx/physx/include/foundation/PxSIMDHelpers.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "include/gpu",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/gpu/PxGpu.h",
+				"engine/engine/3rdlibs/physx/physx/include/gpu/PxPhysicsGpu.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "include/cudamanager",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/cudamanager/PxCudaContextManager.h",
+				"engine/engine/3rdlibs/physx/physx/include/cudamanager/PxCudaContext.h",
+				"engine/engine/3rdlibs/physx/physx/include/cudamanager/PxCudaTypes.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/PxActor.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxActorData.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxAggregate.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxArticulationFlag.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxArticulationJointReducedCoordinate.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxArticulationLink.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxArticulationReducedCoordinate.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxArticulationTendon.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxArticulationTendonData.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxArticulationMimicJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxBroadPhase.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxClient.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxConeLimitedConstraint.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxConstraint.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxConstraintDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxContact.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxContactModifyCallback.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableAttachment.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableElementFilter.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableBody.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableBodyFlag.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableSurface.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableSurfaceFlag.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableVolume.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableVolumeFlag.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeletionListener.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxFEMParameter.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxFiltering.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxForceMode.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxImmediateMode.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxLockedData.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxNodeIndex.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxParticleBuffer.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxParticleGpu.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxParticleSolverType.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxParticleSystem.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxParticleSystemFlag.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxPBDParticleSystem.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxPhysics.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxPhysicsAPI.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxPhysicsSerialization.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxPhysXConfig.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxPruningStructure.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxQueryFiltering.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxQueryReport.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxRigidActor.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxRigidBody.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxRigidDynamic.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxRigidStatic.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxScene.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSceneDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSceneLock.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSceneQueryDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSceneQuerySystem.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxShape.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSimulationEventCallback.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSimulationStatistics.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSoftBody.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSoftBodyFlag.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSparseGridParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxVisualizationParameter.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxIsosurfaceExtraction.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSmoothing.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxAnisotropy.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxParticleNeighborhoodProvider.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxArrayConverter.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxSDFBuilder.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxResidual.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDirectGPUAPI.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableSkinning.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/PxBaseMaterial.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableMaterial.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableSurfaceMaterial.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxDeformableVolumeMaterial.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxFEMMaterial.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxFEMSoftBodyMaterial.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxParticleMaterial.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxPBDMaterial.h",
+				"engine/engine/3rdlibs/physx/physx/include/PxMaterial.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "include/common",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/common/PxBase.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxCollection.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxCoreUtilityTypes.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxInsertionCallback.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxMetaData.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxMetaDataFlags.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxPhysXCommonConfig.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxProfileZone.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxRenderBuffer.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxRenderOutput.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxSerialFramework.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxSerializer.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxStringTable.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxTolerancesScale.h",
+				"engine/engine/3rdlibs/physx/physx/include/common/PxTypeInfo.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "include/pvd",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/pvd/PxPvdSceneClient.h",
+				"engine/engine/3rdlibs/physx/physx/include/pvd/PxPvd.h",
+				"engine/engine/3rdlibs/physx/physx/include/pvd/PxPvdTransport.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "include/omnipvd",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/omnipvd/PxOmniPvd.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "include/collision",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/collision/PxCollisionDefs.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "include/solver",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/solver/PxSolverDefs.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/PxConfig.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "include/extensions",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxBinaryConverter.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxBroadPhaseExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxCollectionExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxConvexMeshExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxCudaHelpersExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxDefaultAllocator.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxDefaultCpuDispatcher.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxDefaultErrorCallback.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxDefaultSimulationFilterShader.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxDefaultStreams.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxDeformableSurfaceExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxDeformableVolumeExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxExtensionsAPI.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxMassProperties.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxRaycastCCD.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxRepXSerializer.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxRepXSimpleType.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxRigidActorExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxRigidBodyExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxSceneQueryExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxSceneQuerySystemExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxCustomSceneQuerySystem.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxSerialization.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxShapeExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxSimpleFactory.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxSmoothNormals.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxSoftBodyExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxStringTableExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxTriangleMeshExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxTetrahedronMeshExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxRemeshingExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxTriangleMeshAnalysisResult.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxTetrahedronMeshAnalysisResult.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxTetMakerExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxGjkQueryExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxCustomGeometryExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxSamplingExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxConvexCoreExt.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"destination" : "include/extensions",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxConstraintExt.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxContactJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxD6Joint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxD6JointCreate.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxDistanceJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxContactJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxFixedJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxGearJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxRackAndPinionJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxJointLimit.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxPrismaticJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxRevoluteJoint.h",
+				"engine/engine/3rdlibs/physx/physx/include/extensions/PxSphericalJoint.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "include/filebuf",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/filebuf/PxFileBuf.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"destination" : "include/characterkinematic",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxBoxController.h",
+				"engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxCapsuleController.h",
+				"engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxController.h",
+				"engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxControllerBehavior.h",
+				"engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxControllerManager.h",
+				"engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxControllerObstacles.h",
+				"engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxExtended.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"destination" : "include/geometry",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxBoxGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxCapsuleGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxConvexMesh.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxConvexMeshGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxCustomGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxConvexCoreGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxGeometryInternal.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxGeometryHelpers.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxGeometryHit.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxGeometryQuery.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxGeometryQueryFlags.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxGeometryQueryContext.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxHeightField.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxHeightFieldDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxHeightFieldFlag.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxHeightFieldGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxHeightFieldSample.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxMeshQuery.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxMeshScale.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxPlaneGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxReportCallback.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxSimpleTriangleMesh.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxSphereGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxTriangle.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxTriangleMesh.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxTriangleMeshGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxBVH.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxBVHBuildStrategy.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxTetrahedron.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxTetrahedronMesh.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxTetrahedronMeshGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxParticleSystemGeometry.h",
+				"engine/engine/3rdlibs/physx/physx/include/geometry/PxGjkQuery.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"destination" : "include/geomutils",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/geomutils/PxContactBuffer.h",
+				"engine/engine/3rdlibs/physx/physx/include/geomutils/PxContactPoint.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"destination" : "include/cooking",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxBVH33MidphaseDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxBVH34MidphaseDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/Pxc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxConvexMeshDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxCooking.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxCookingInternal.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxMidphaseDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxTriangleMeshDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxTetrahedronMeshDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxBVHDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxTetrahedronMeshDesc.h",
+				"engine/engine/3rdlibs/physx/physx/include/cooking/PxSDFDesc.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleDrive.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleDrive4W.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleDriveNW.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleDriveTank.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleNoDrive.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleSDK.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleShaders.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleTireFriction.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleUpdate.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleUtil.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleUtilControl.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleUtilSetup.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleUtilTelemetry.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle/PxVehicleWheels.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 45,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/PxVehicleAPI.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/PxVehicleComponent.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/PxVehicleComponentSequence.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/PxVehicleLimits.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/PxVehicleFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/PxVehicleParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/PxVehicleMaths.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 46,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/braking",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/braking/PxVehicleBrakingFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/braking/PxVehicleBrakingParams.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 47,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/commands",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/commands/PxVehicleCommandHelpers.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/commands/PxVehicleCommandParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/commands/PxVehicleCommandStates.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 48,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/drivetrain",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/drivetrain/PxVehicleDrivetrainComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/drivetrain/PxVehicleDrivetrainFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/drivetrain/PxVehicleDrivetrainHelpers.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/drivetrain/PxVehicleDrivetrainParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/drivetrain/PxVehicleDrivetrainStates.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 49,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/physxActor",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxActor/PxVehiclePhysXActorComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxActor/PxVehiclePhysXActorFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxActor/PxVehiclePhysXActorHelpers.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxActor/PxVehiclePhysXActorStates.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 50,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/physxConstraints",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxConstraints/PxVehiclePhysXConstraintComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxConstraints/PxVehiclePhysXConstraintFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxConstraints/PxVehiclePhysXConstraintHelpers.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxConstraints/PxVehiclePhysXConstraintParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxConstraints/PxVehiclePhysXConstraintStates.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 51,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/physxRoadGeometry",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxRoadGeometry/PxVehiclePhysXRoadGeometryComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxRoadGeometry/PxVehiclePhysXRoadGeometryFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxRoadGeometry/PxVehiclePhysXRoadGeometryHelpers.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxRoadGeometry/PxVehiclePhysXRoadGeometryParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/physxRoadGeometry/PxVehiclePhysXRoadGeometryState.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 52,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/rigidBody",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/rigidBody/PxVehicleRigidBodyComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/rigidBody/PxVehicleRigidBodyFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/rigidBody/PxVehicleRigidBodyParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/rigidBody/PxVehicleRigidBodyStates.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 53,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/roadGeometry",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/roadGeometry/PxVehicleRoadGeometryState.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 54,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/steering",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/steering/PxVehicleSteeringFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/steering/PxVehicleSteeringParams.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 55,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/suspension",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/suspension/PxVehicleSuspensionComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/suspension/PxVehicleSuspensionFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/suspension/PxVehicleSuspensionParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/suspension/PxVehicleSuspensionStates.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/suspension/PxVehicleSuspensionHelpers.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 56,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/tire",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/tire/PxVehicleTireComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/tire/PxVehicleTireFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/tire/PxVehicleTireHelpers.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/tire/PxVehicleTireParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/tire/PxVehicleTireStates.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 57,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/wheel",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/wheel/PxVehicleWheelComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/wheel/PxVehicleWheelFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/wheel/PxVehicleWheelParams.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/wheel/PxVehicleWheelStates.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/wheel/PxVehicleWheelHelpers.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 58,
+			"component" : "Unspecified",
+			"destination" : "include/vehicle2/pvd",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/pvd/PxVehiclePvdComponents.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/pvd/PxVehiclePvdFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/include/vehicle2/pvd/PxVehiclePvdHelpers.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 61,
+			"component" : "Unspecified",
+			"destination" : "include/task",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/include/task/PxCpuDispatcher.h",
+				"engine/engine/3rdlibs/physx/physx/include/task/PxTask.h",
+				"engine/engine/3rdlibs/physx/physx/include/task/PxTaskManager.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXFoundation_static_64.a"
+			],
+			"targetId" : "PhysXFoundation::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 18,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysXFoundation::@bf751d193ff8fef5a3bd",
+				"index" : 18
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysX_static_64.a"
+			],
+			"targetId" : "PhysX::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 13,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysX::@bf751d193ff8fef5a3bd",
+				"index" : 13
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXCharacterKinematic_static_64.a"
+			],
+			"targetId" : "PhysXCharacterKinematic::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 14,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysXCharacterKinematic::@bf751d193ff8fef5a3bd",
+				"index" : 14
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXPvdSDK_static_64.a"
+			],
+			"targetId" : "PhysXPvdSDK::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 19,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysXPvdSDK::@bf751d193ff8fef5a3bd",
+				"index" : 19
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXCommon_static_64.a"
+			],
+			"targetId" : "PhysXCommon::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 15,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysXCommon::@bf751d193ff8fef5a3bd",
+				"index" : 15
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXCooking_static_64.a"
+			],
+			"targetId" : "PhysXCooking::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 16,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysXCooking::@bf751d193ff8fef5a3bd",
+				"index" : 16
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXExtensions_static_64.a"
+			],
+			"targetId" : "PhysXExtensions::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 17,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysXExtensions::@bf751d193ff8fef5a3bd",
+				"index" : 17
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXVehicle_static_64.a"
+			],
+			"targetId" : "PhysXVehicle::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 21,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysXVehicle::@bf751d193ff8fef5a3bd",
+				"index" : 21
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "bin/linux.aarch64/debug",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXVehicle2_static_64.a"
+			],
+			"targetId" : "PhysXVehicle2::@bf751d193ff8fef5a3bd",
+			"targetIndex" : 22,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "PhysXVehicle2::@bf751d193ff8fef5a3bd",
+				"index" : 22
+			},
+			"destination" : "bin/linux.aarch64/debug",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin",
+		"source" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake"
+	}
+}

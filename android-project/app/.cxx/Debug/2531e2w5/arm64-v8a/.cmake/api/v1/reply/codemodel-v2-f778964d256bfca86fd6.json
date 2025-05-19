@@ -1,0 +1,799 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"build" : "engine",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-engine-Debug-776e2b00c6520ab49d05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "engine"
+				},
+				{
+					"build" : "engine/engine",
+					"childIndexes" : 
+					[
+						3,
+						20
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-engine.engine-Debug-13076b414236fced68a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "engine/engine",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs",
+					"childIndexes" : 
+					[
+						4,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-engine.engine.3rdlibs-Debug-637a4b13163a2b5ce197.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "engine/engine/3rdlibs"
+				},
+				{
+					"build" : "engine/engine/3rdlibs/physx",
+					"childIndexes" : 
+					[
+						5,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-engine.engine.3rdlibs.physx-Debug-041a092583ccd08ad401.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "engine/engine/3rdlibs/physx"
+				},
+				{
+					"build" : "engine/engine/3rdlibs/physx/physx",
+					"childIndexes" : 
+					[
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-engine.engine.3rdlibs.physx.physx-Debug-00266fa070ee7e6498af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "engine/engine/3rdlibs/physx/physx"
+				},
+				{
+					"build" : "engine/engine/3rdlibs/physx/physx/compiler/public",
+					"childIndexes" : 
+					[
+						7,
+						8
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-engine.engine.3rdlibs.physx.physx.compiler.public-Debug-79cb9056526f2a0f67e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 1,
+					"source" : "engine/engine/3rdlibs/physx/physx/compiler/public"
+				},
+				{
+					"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-engine.engine.3rdlibs.physx.physx.compiler.public.sdk_source_bin-Debug-f99647208145f9d646b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 2,
+					"source" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						25,
+						26
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/pvdruntime_bin",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-engine.engine.3rdlibs.physx.physx.compiler.public.pvdruntime_bin-Debug-3f3d904473d3cc01667b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/physx/blast",
+					"childIndexes" : 
+					[
+						10
+					],
+					"jsonFile" : "directory-engine.engine.3rdlibs.physx.blast-Debug-90edca9ed0fb2f896352.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 4,
+					"source" : "engine/engine/3rdlibs/physx/blast",
+					"targetIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/physx/blast/3rdlibs",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-engine.engine.3rdlibs.physx.blast.3rdlibs-Debug-7d7b084152cd41fb573b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 4,
+					"source" : "engine/engine/3rdlibs/physx/blast/3rdlibs"
+				},
+				{
+					"build" : "engine/engine/3rdlibs/physx/blast/3rdlibs/multiprecision",
+					"jsonFile" : "directory-engine.engine.3rdlibs.physx.blast.3rdlibs.multiprecision-Debug-622185eb57b86e7ca69e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 5,
+					"source" : "engine/engine/3rdlibs/physx/blast/3rdlibs/multiprecision"
+				},
+				{
+					"build" : "engine/engine/3rdlibs/SDL",
+					"jsonFile" : "directory-engine.engine.3rdlibs.SDL-Debug-39f4c6170db0345ec837.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 6,
+					"source" : "engine/engine/3rdlibs/SDL",
+					"targetIndexes" : 
+					[
+						23,
+						24
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/volk",
+					"jsonFile" : "directory-engine.engine.3rdlibs.volk-Debug-91b5a3bc9a824193cd89.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 7,
+					"source" : "engine/engine/3rdlibs/volk",
+					"targetIndexes" : 
+					[
+						33
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/imgui",
+					"jsonFile" : "directory-engine.engine.3rdlibs.imgui-Debug-e37d849f93c09b7947c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "engine/engine/3rdlibs/imgui",
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/stb",
+					"jsonFile" : "directory-engine.engine.3rdlibs.stb-Debug-63862992179728ed63b2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "engine/engine/3rdlibs/stb",
+					"targetIndexes" : 
+					[
+						31
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/spdlog",
+					"jsonFile" : "directory-engine.engine.3rdlibs.spdlog-Debug-f21ced38b6672e9d06b2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 8,
+					"source" : "engine/engine/3rdlibs/spdlog",
+					"targetIndexes" : 
+					[
+						30
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/tinygltf",
+					"jsonFile" : "directory-engine.engine.3rdlibs.tinygltf-Debug-f798cecd25633aeff40e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 9,
+					"source" : "engine/engine/3rdlibs/tinygltf",
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"build" : "engine/engine/3rdlibs/tomlplusplus",
+					"jsonFile" : "directory-engine.engine.3rdlibs.tomlplusplus-Debug-240d8480e352bc8dc883.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 10,
+					"source" : "engine/engine/3rdlibs/tomlplusplus"
+				},
+				{
+					"build" : "engine/engine/3rdlibs/implot",
+					"jsonFile" : "directory-engine.engine.3rdlibs.implot-Debug-9913fe42f9ae021fef69.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "engine/engine/3rdlibs/implot",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "engine/engine/main_entry",
+					"jsonFile" : "directory-engine.engine.main_entry-Debug-a43a3a65fcfbb0e1f7d6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "engine/engine/main_entry",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						14,
+						15,
+						19,
+						20
+					],
+					"name" : "NickelEngine",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						27,
+						28,
+						29,
+						31
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "PhysXSDK",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "PhysX",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						25,
+						26
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "PVDRuntime",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						5
+					],
+					"directoryIndexes" : 
+					[
+						9,
+						10
+					],
+					"name" : "NvBlast",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "boost_multiprecision",
+					"parentIndex" : 4
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "SDL3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						23,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "volk",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						33
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						30
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "tinygltf",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						18
+					],
+					"name" : "tomlplusplus",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 7,
+					"id" : "LowLevel::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-LowLevel-Debug-20813a0452c31a7228e5.json",
+					"name" : "LowLevel",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "LowLevelAABB::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-LowLevelAABB-Debug-f6bd374e44a93dd7a0fe.json",
+					"name" : "LowLevelAABB",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "LowLevelDynamics::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-LowLevelDynamics-Debug-f4d704545fe79a46cf61.json",
+					"name" : "LowLevelDynamics",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "NickelEngine-Main::@0e0d13d726e43f2cabe5",
+					"jsonFile" : "target-NickelEngine-Main-Debug-2583ba2a89226b85e29d.json",
+					"name" : "NickelEngine-Main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "NickelEngine-static::@4068fd50aead16c92a5c",
+					"jsonFile" : "target-NickelEngine-static-Debug-cca39df10d33ae9410da.json",
+					"name" : "NickelEngine-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "NvBlast_ExtAssetUtils::@b1b915f14bc05578e70b",
+					"jsonFile" : "target-NvBlast_ExtAssetUtils-Debug-d489c3b5ce943d631d57.json",
+					"name" : "NvBlast_ExtAssetUtils",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "NvBlast_ExtAuthoring::@b1b915f14bc05578e70b",
+					"jsonFile" : "target-NvBlast_ExtAuthoring-Debug-cc402cc79056b87ff1a0.json",
+					"name" : "NvBlast_ExtAuthoring",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "NvBlast_ExtShaders::@b1b915f14bc05578e70b",
+					"jsonFile" : "target-NvBlast_ExtShaders-Debug-5df392560c40ff8ca04e.json",
+					"name" : "NvBlast_ExtShaders",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "NvBlast_ExtStress::@b1b915f14bc05578e70b",
+					"jsonFile" : "target-NvBlast_ExtStress-Debug-8ff984b15c4b6bfda9d0.json",
+					"name" : "NvBlast_ExtStress",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "NvBlast_Globals::@b1b915f14bc05578e70b",
+					"jsonFile" : "target-NvBlast_Globals-Debug-3fc30647312925879288.json",
+					"name" : "NvBlast_Globals",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "NvBlast_LowLevel::@b1b915f14bc05578e70b",
+					"jsonFile" : "target-NvBlast_LowLevel-Debug-05b570dfd005fe702ff3.json",
+					"name" : "NvBlast_LowLevel",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "NvBlast_Tk::@b1b915f14bc05578e70b",
+					"jsonFile" : "target-NvBlast_Tk-Debug-75d9240374678e239b31.json",
+					"name" : "NvBlast_Tk",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "PVDRuntime::@ae114534c4964f7541b5",
+					"jsonFile" : "target-PVDRuntime-Debug-1f22b31670b8cdc369a4.json",
+					"name" : "PVDRuntime",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysX::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysX-Debug-34acbb030e6075b0a505.json",
+					"name" : "PhysX",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXCharacterKinematic::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXCharacterKinematic-Debug-21b17a006a088bfbb8b6.json",
+					"name" : "PhysXCharacterKinematic",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXCommon::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXCommon-Debug-6b0dce31060135be5577.json",
+					"name" : "PhysXCommon",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXCooking::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXCooking-Debug-8fb726c79d7c88d356d6.json",
+					"name" : "PhysXCooking",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXExtensions::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXExtensions-Debug-a3a48b13afe4e7f36cd9.json",
+					"name" : "PhysXExtensions",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXFoundation::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXFoundation-Debug-0518a6df5f1763404c05.json",
+					"name" : "PhysXFoundation",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXPvdSDK::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXPvdSDK-Debug-b6455e3cb04dcf0ecf97.json",
+					"name" : "PhysXPvdSDK",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXTask::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXTask-Debug-74ce535159586e6a7116.json",
+					"name" : "PhysXTask",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXVehicle::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXVehicle-Debug-74a80b74b192b1e91dab.json",
+					"name" : "PhysXVehicle",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PhysXVehicle2::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-PhysXVehicle2-Debug-c39d9a4207edb370fa63.json",
+					"name" : "PhysXVehicle2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "SDL3-shared::@1cd194ea766763682374",
+					"jsonFile" : "target-SDL3-shared-Debug-9959486985ec1ccbf548.json",
+					"name" : "SDL3-shared",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "SDL_uclibc::@1cd194ea766763682374",
+					"jsonFile" : "target-SDL_uclibc-Debug-ff19664dbe2f7ea39f86.json",
+					"name" : "SDL_uclibc",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "SceneQuery::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-SceneQuery-Debug-1474fe936cab9027bb82.json",
+					"name" : "SceneQuery",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "SimulationController::@bf751d193ff8fef5a3bd",
+					"jsonFile" : "target-SimulationController-Debug-bd073836ea23ecfdf32d.json",
+					"name" : "SimulationController",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "imgui::@fa6fe862e10edc6eaade",
+					"jsonFile" : "target-imgui-Debug-5fff74da8748ee8e138f.json",
+					"name" : "imgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "implot::@24dbca4e4708a602d71f",
+					"jsonFile" : "target-implot-Debug-8912c12cbd7e1d19e388.json",
+					"name" : "implot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-05cbd1f7a44a0ef2c00b.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "spdlog::@2ed0c500bed5f0b593cf",
+					"jsonFile" : "target-spdlog-Debug-b09e94440ac1d2cf138f.json",
+					"name" : "spdlog",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "stb_image::@080ffbc5d6b848e90ff9",
+					"jsonFile" : "target-stb_image-Debug-6e34764199894ef5fd23.json",
+					"name" : "stb_image",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "tinygltf::@7aa12bb7dfe039b232ab",
+					"jsonFile" : "target-tinygltf-Debug-257d60b449ca6cf97876.json",
+					"name" : "tinygltf",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "volk::@ede4fbc9072fe350e562",
+					"jsonFile" : "target-volk-Debug-5f708bb524a598058881.json",
+					"name" : "volk",
+					"projectIndex" : 7
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/arm64-v8a",
+		"source" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

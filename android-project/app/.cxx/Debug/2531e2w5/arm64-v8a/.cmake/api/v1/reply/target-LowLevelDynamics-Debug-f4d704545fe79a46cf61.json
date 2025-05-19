@@ -1,0 +1,962 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyAllocator.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyArticulationContactPrep.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyArticulationContactPrepPF.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyArticulationMimicJoint.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyFeatherstoneArticulation.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyFeatherstoneForwardDynamic.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyFeatherstoneInverseDynamic.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyConstraintPartition.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyConstraintSetup.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyConstraintSetupBlock.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyContactPrep.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyContactPrep4.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyContactPrep4PF.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyContactPrepPF.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyDynamics.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyFrictionCorrelation.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyRigidBodyToSolverBody.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DySolverConstraints.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DySolverConstraintsBlock.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DySolverControl.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DySolverControlPF.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DySolverPFConstraints.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DySolverPFConstraintsBlock.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyThreadContext.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyThresholdTable.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyTGSDynamics.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyTGSContactPrep.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DyTGSContactPrepBlock.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DySolverCore.cpp.o"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/LowLevelDynamics.dir/./__/__/lowleveldynamics/src/DySleep.cpp.o"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE",
+			"add_compile_options",
+			"TARGET_COMPILE_DEFINITIONS",
+			"TARGET_INCLUDE_DIRECTORIES"
+		],
+		"files" : 
+		[
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/LowLevelDynamics.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/CMakeLists.txt",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 175,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 144,
+				"parent" : 4
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 6,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 9,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 179,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 152,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -fno-rtti -fno-exceptions -ffunction-sections -fdata-sections -fvisibility=hidden -ffp-contract=off -fstrict-aliasing -ffp-exception-behavior=maytrap -ferror-limit=0 -Wall -Wextra -Werror -Weverything    -Wno-unused-but-set-variable     -Wno-switch-default     -Wno-cast-qual     -Wno-invalid-offsetof     -Wno-unsafe-buffer-usage     -Wno-alloca     -Wno-atomic-implicit-seq-cst     -Wno-c++98-compat-pedantic     -Wno-c++98-compat     -Wno-cast-align     -Wno-conversion     -Wno-covered-switch-default     -Wno-deprecated     -Wno-documentation-deprecated-sync     -Wno-documentation-unknown-command     -Wno-exit-time-destructors     -Wno-extra-semi-stmt     -Wno-float-equal     -Wno-format-nonliteral     -Wno-global-constructors     -Wno-implicit-fallthrough     -Wno-inconsistent-missing-destructor-override     -Wno-inconsistent-missing-override     -Wno-missing-noreturn     -Wno-missing-prototypes     -Wno-missing-variable-declarations     -Wno-newline-eof     -Wno-non-virtual-dtor     -Wno-old-style-cast     -Wno-padded     -Wno-reserved-id-macro     -Wno-suggest-destructor-override     -Wno-suggest-override     -Wno-switch-enum     -Wno-undef     -Wno-undefined-reinterpret-cast     -Wno-unknown-warning-option     -Wno-unreachable-code     -Wno-unused-function     -Wno-unused-macros     -Wno-unused-member-function     -Wno-unused-private-field     -Wno-used-but-marked-unused     -Wno-weak-template-vtables     -Wno-weak-vtables     -Wno-zero-as-null-pointer-constant     -Wno-reserved-identifier     -Wno-undefined-func-template  -O0 -g3 -gdwarf-2 -fPIC"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-Wno-all"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-Wno-extra"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-Wno-error"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-Wno-unsupported-float-opt"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "PX_CHECKED=1"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "PX_DEBUG=1"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "PX_NVTX=0"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "PX_PHYSX_STATIC_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "PX_PUBLIC_RELEASE=1"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "PX_SUPPORT_OMNI_PVD=0"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "PX_SUPPORT_PVD=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/common/src/linux"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include/linux"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/linux"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline/linux"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/common/src"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src/contact"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/src"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/api/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/pipeline"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/common/include/utils"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowlevel/software/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/shared"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/physxgpu/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				49,
+				50,
+				51,
+				52,
+				53,
+				83,
+				91
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			}
+		}
+	],
+	"folder" : 
+	{
+		"name" : "PhysX SDK"
+	},
+	"id" : "LowLevelDynamics::@bf751d193ff8fef5a3bd",
+	"name" : "LowLevelDynamics",
+	"paths" : 
+	{
+		"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin",
+		"source" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "include",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		},
+		{
+			"name" : "shared",
+			"sourceIndexes" : 
+			[
+				22,
+				23
+			]
+		},
+		{
+			"name" : "src",
+			"sourceIndexes" : 
+			[
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyArticulationCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyVArticulation.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyArticulationTendon.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyArticulationMimicJointCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyDeformableBodyCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyDeformableSurface.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyDeformableSurfaceCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyDeformableVolume.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyDeformableVolumeCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyFeatherstoneArticulation.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyFeatherstoneArticulationJointData.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyFeatherstoneArticulationUtils.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyConstraint.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyConstraintWriteBack.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyContext.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DySleepingConfigulation.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyThresholdTable.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyArticulationJointCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyParticleSystemCore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyParticleSystem.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyResidualAccumulator.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/include/DyIslandManager.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/shared/DyCpuGpuArticulation.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/shared/DyCpuGpu1dConstraint.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyAllocator.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyAllocator.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyArticulationContactPrep.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyArticulationContactPrepPF.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyArticulationMimicJoint.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyFeatherstoneArticulation.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyFeatherstoneForwardDynamic.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyFeatherstoneInverseDynamic.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyConstraintPartition.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyConstraintSetup.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyConstraintSetupBlock.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyContactPrep.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyContactPrep4.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyContactPrep4PF.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyContactPrepPF.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyDynamics.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyFrictionCorrelation.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyRigidBodyToSolverBody.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraints.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraintsBlock.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverControl.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverControlPF.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverPFConstraints.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverPFConstraintsBlock.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraint1DStep.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyThreadContext.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyThresholdTable.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyTGSDynamics.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyTGSContactPrep.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyTGSContactPrepBlock.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyArticulationContactPrep.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyArticulationPImpl.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyArticulationUtils.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyFeatherstoneArticulationLink.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyBodyCoreIntegrator.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyConstraintPartition.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyConstraintPrep.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyContactPrep.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyContactPrepShared.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyContactReduction.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyCorrelationBuffer.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyDynamics.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyFrictionPatch.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyFrictionPatchStreamPair.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverBody.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraint1D.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraint1D4.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraintDesc.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraintExtShared.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraintsShared.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverConstraintTypes.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverContact.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverContact4.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverContactPF.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverContactPF4.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverContext.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverControl.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverControlPF.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverCore.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverCore.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySolverExt.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyThreadContext.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyTGSDynamics.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyTGSContactPrep.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyTGS.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DyPGS.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySleep.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/lowleveldynamics/src/DySleep.cpp",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

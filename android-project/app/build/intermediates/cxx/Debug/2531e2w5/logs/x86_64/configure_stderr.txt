@@ -1,0 +1,116 @@
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+WARNcan't find glslc, won't auto compile shaders
+PHYSX ROOT C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx
+PhysX Build Platform: linux
+Using CXX Compiler: C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+Added PhysX
+Added PVDRuntime
+volk: using VULKAN_HEADERS_INSTALL_DIR option
+WARN don't find glslc, can't compiling shader C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/imgui/backends/vulkan/glsl_shader.vert
+WARN don't find glslc, can't compiling shader C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/imgui/backends/vulkan/glsl_shader.frag
+CMake Deprecation Warning at engine/engine/3rdlibs/tinygltf/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+WARN don't find glslc, can't compiling shader C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/assets/shaders/shader_pbr.vert
+WARN don't find glslc, can't compiling shader C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/assets/shaders/shader_pbr.frag
+WARN don't find glslc, can't compiling shader C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/assets/shaders/shader_gridline.vert
+WARN don't find glslc, can't compiling shader C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/assets/shaders/shader_gridline.frag
+build static nickel engine
+CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86_64/engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/SimulationController.dir/./
+
+  has 193 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    __/__/simulationcontroller/src/ScSimulationController.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86_64/engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXExtensions.dir/./
+
+  has 188 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    __/__/physxextensions/src/tet/ExtDelaunayBoundaryInserter.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86_64/engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXCharacterKinematic.dir/./
+
+  has 196 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    2d74214308300fbd8b2b4278f621c8fa/CctBoxController.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86_64/engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXCommon.dir/./
+
+  has 184 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    __/__/geomutils/src/intersection/GuIntersectionTetrahedronBox.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86_64/engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/./
+
+  has 185 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    7aa75b31e0062a24b0acae49df6805c9/PxVehicleAutoGeneratedMetaDataObjects.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86_64/engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle2.dir/./
+
+  has 186 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    1666f6ea4a3ba7a1af33215d5f224af7/VhPhysXRoadGeometryHelpers.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+

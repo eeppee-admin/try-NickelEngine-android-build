@@ -1,0 +1,836 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/CMakeFiles/4.0.2/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/build/cmake/android.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/build/cmake/android-legacy.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/build/cmake/abis.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/build/cmake/platforms.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Android-Initialize.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/build/cmake/hooks/pre/Android-Initialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/CMakeFiles/4.0.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/CMakeFiles/4.0.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Android.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/build/cmake/hooks/pre/Android.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Compiler/Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Android-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/build/cmake/hooks/pre/Android-Clang.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/build/cmake/flags.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Linker/LLD-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Linker/LLD.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linker/Android-LLD-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linker/Linux-LLD-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linker/Linux-LLD.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linker/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Compiler/Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Android-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Linker/LLD-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Linker/LLD.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linker/Android-LLD-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linker/Linux-LLD-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Platform/Linker/Linux-LLD.cmake"
+		},
+		{
+			"path" : "engine/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/cmake/target_category_helper.cmake"
+		},
+		{
+			"path" : "engine/cmake/compile_shader.cmake"
+		},
+		{
+			"path" : "engine/engine/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/modules/NvidiaBuildOptions.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/modules/SetOutputPaths.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/modules/GetCompilerAndPlatform.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXFoundation.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXFoundation.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/LowLevel.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/LowLevel.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/LowLevelAABB.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/LowLevelAABB.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/LowLevelDynamics.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/LowLevelDynamics.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysX.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysX.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXExtensions.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXExtensions.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXCharacterKinematic.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXCharacterKinematic.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXCommon.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXCommon.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXCooking.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXCooking.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXVehicle.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXVehicle.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXVehicle2.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXVehicle2.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/SceneQuery.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/SceneQuery.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/SimulationController.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/SimulationController.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXPvdSDK.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXPvdSDK.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXTask.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/PhysXTask.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/buildtools/templates/PxIncludeTemplate.h"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/modules/NvidiaBuildOptions.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/modules/SetOutputPaths.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake/modules/GetCompilerAndPlatform.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/linux/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/PVDRuntime.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/linux/PVDRuntime.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/blast/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/blast/3rdlibs/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/physx/blast/3rdlibs/multiprecision/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCSourceRuns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckSourceRuns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckStructHasMember.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/macros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckLinkerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckLinkerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/sdlchecks.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/sdlcompilers.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/sdlcpu.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/sdlmanpages.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/sdlplatform.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/sdltargets.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/GetGitRevisionDescription.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/3rdparty.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/PreseedMSVCCache.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/PreseedEmscriptenCache.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/FindLibUSB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/include/build_config/SDL_build_config.h.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/include/build_config/SDL_revision.h.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/SDL/cmake/SDL3Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86/engine/engine/3rdlibs/SDL/CMakeFiles/SDL_build_config.h.intermediate"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/volk/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/imgui/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/stb/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/spdlog/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/spdlog/cmake/utils.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/spdlog/cmake/ide.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/spdlog/cmake/pch.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/tinygltf/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/cmake/4.0.2/share/cmake-4.0/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/tomlplusplus/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/tomlplusplus/cmake/project-is-top-level.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/tomlplusplus/cmake/variables.cmake"
+		},
+		{
+			"path" : "engine/engine/3rdlibs/implot/CMakeLists.txt"
+		},
+		{
+			"path" : "engine/engine/main_entry/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/x86",
+		"source" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

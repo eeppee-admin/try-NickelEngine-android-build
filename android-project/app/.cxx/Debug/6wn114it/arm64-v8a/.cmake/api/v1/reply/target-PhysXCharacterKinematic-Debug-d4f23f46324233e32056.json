@@ -1,0 +1,397 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPhysXCharacterKinematic_static_64.a"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE",
+			"INSTALL",
+			"TARGET_LINK_LIBRARIES",
+			"TARGET_COMPILE_DEFINITIONS",
+			"TARGET_INCLUDE_DIRECTORIES"
+		],
+		"files" : 
+		[
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXCharacterKinematic.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/CMakeLists.txt",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 178,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 74,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 209,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 117,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 92,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 81,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -fno-rtti -fno-exceptions -ffunction-sections -fdata-sections -fvisibility=hidden -ffp-contract=off -fstrict-aliasing -ffp-exception-behavior=maytrap -ferror-limit=0 -Wall -Wextra -Werror -Weverything    -Wno-unused-but-set-variable     -Wno-switch-default     -Wno-cast-qual     -Wno-invalid-offsetof     -Wno-unsafe-buffer-usage     -Wno-alloca     -Wno-atomic-implicit-seq-cst     -Wno-c++98-compat-pedantic     -Wno-c++98-compat     -Wno-cast-align     -Wno-conversion     -Wno-covered-switch-default     -Wno-deprecated     -Wno-documentation-deprecated-sync     -Wno-documentation-unknown-command     -Wno-exit-time-destructors     -Wno-extra-semi-stmt     -Wno-float-equal     -Wno-format-nonliteral     -Wno-global-constructors     -Wno-implicit-fallthrough     -Wno-inconsistent-missing-destructor-override     -Wno-inconsistent-missing-override     -Wno-missing-noreturn     -Wno-missing-prototypes     -Wno-missing-variable-declarations     -Wno-newline-eof     -Wno-non-virtual-dtor     -Wno-old-style-cast     -Wno-padded     -Wno-reserved-id-macro     -Wno-suggest-destructor-override     -Wno-suggest-override     -Wno-switch-enum     -Wno-undef     -Wno-undefined-reinterpret-cast     -Wno-unknown-warning-option     -Wno-unreachable-code     -Wno-unused-function     -Wno-unused-macros     -Wno-unused-member-function     -Wno-unused-private-field     -Wno-used-but-marked-unused     -Wno-weak-template-vtables     -Wno-weak-vtables     -Wno-zero-as-null-pointer-constant     -Wno-reserved-identifier     -Wno-undefined-func-template  -O0 -g3 -gdwarf-2 -fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "PX_CHECKED=1"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "PX_DEBUG=1"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "PX_NVTX=0"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "PX_PUBLIC_RELEASE=1"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "PX_SUPPORT_OMNI_PVD=0"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "PX_SUPPORT_PVD=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/common/src"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/source/geomutils/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "PhysXFoundation::@bf751d193ff8fef5a3bd"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "PhysXExtensions::@bf751d193ff8fef5a3bd"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "PhysXCommon::@bf751d193ff8fef5a3bd"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "PhysX::@bf751d193ff8fef5a3bd"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "PhysX SDK"
+	},
+	"id" : "PhysXCharacterKinematic::@bf751d193ff8fef5a3bd",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "bin/linux.aarch64/debug"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Program Files (x86)/NickelEngine"
+		}
+	},
+	"name" : "PhysXCharacterKinematic",
+	"nameOnDisk" : "libPhysXCharacterKinematic_static_64.a",
+	"paths" : 
+	{
+		"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin",
+		"source" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "include",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"name" : "src",
+			"sourceIndexes" : 
+			[
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxBoxController.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxCapsuleController.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxController.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxControllerBehavior.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxControllerManager.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxControllerObstacles.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/characterkinematic/PxExtended.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctBoxController.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctCapsuleController.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctCharacterController.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctCharacterControllerCallbacks.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctCharacterControllerManager.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctController.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctObstacleContext.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctSweptBox.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctSweptCapsule.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctSweptVolume.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctBoxController.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctCapsuleController.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctCharacterController.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctCharacterControllerManager.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctController.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctInternalStructs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctObstacleContext.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctSweptBox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctSweptCapsule.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctSweptVolume.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/physxcharacterkinematic/src/CctUtils.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

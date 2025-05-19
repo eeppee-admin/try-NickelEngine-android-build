@@ -1,0 +1,803 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin/output/vc17win64/PhysX/bin/UNKNOWN/debug/libPhysXFoundation_static_32.a"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE",
+			"INSTALL",
+			"TARGET_COMPILE_DEFINITIONS",
+			"TARGET_INCLUDE_DIRECTORIES"
+		],
+		"files" : 
+		[
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/PhysXFoundation.cmake",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/linux/CMakeLists.txt",
+			"engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 172,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 123,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 209,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 138,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 132,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -fno-rtti -fno-exceptions -ffunction-sections -fdata-sections -fvisibility=hidden  -fstrict-aliasing -ffp-exception-behavior=maytrap -ferror-limit=0 -Wall -Wextra -Werror -Weverything    -Wno-unused-but-set-variable     -Wno-switch-default     -Wno-cast-qual     -Wno-invalid-offsetof     -Wno-unsafe-buffer-usage     -Wno-alloca     -Wno-atomic-implicit-seq-cst     -Wno-c++98-compat-pedantic     -Wno-c++98-compat     -Wno-cast-align     -Wno-conversion     -Wno-covered-switch-default     -Wno-deprecated     -Wno-documentation-deprecated-sync     -Wno-documentation-unknown-command     -Wno-exit-time-destructors     -Wno-extra-semi-stmt     -Wno-float-equal     -Wno-format-nonliteral     -Wno-global-constructors     -Wno-implicit-fallthrough     -Wno-inconsistent-missing-destructor-override     -Wno-inconsistent-missing-override     -Wno-missing-noreturn     -Wno-missing-prototypes     -Wno-missing-variable-declarations     -Wno-newline-eof     -Wno-non-virtual-dtor     -Wno-old-style-cast     -Wno-padded     -Wno-reserved-id-macro     -Wno-suggest-destructor-override     -Wno-suggest-override     -Wno-switch-enum     -Wno-undef     -Wno-undefined-reinterpret-cast     -Wno-unknown-warning-option     -Wno-unreachable-code     -Wno-unused-function     -Wno-unused-macros     -Wno-unused-member-function     -Wno-unused-private-field     -Wno-used-but-marked-unused     -Wno-weak-template-vtables     -Wno-weak-vtables     -Wno-zero-as-null-pointer-constant     -Wno-reserved-identifier     -Wno-undefined-func-template  -O0 -g3 -gdwarf-2 -fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "PX_CHECKED=1"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "PX_DEBUG=1"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "PX_NVTX=0"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "PX_PUBLIC_RELEASE=1"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "PX_SUPPORT_OMNI_PVD=1"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "PX_SUPPORT_PVD=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 8,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/include/foundation/linux"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			}
+		}
+	],
+	"folder" : 
+	{
+		"name" : "PhysX SDK"
+	},
+	"id" : "PhysXFoundation::@bf751d193ff8fef5a3bd",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "bin/UNKNOWN/debug"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Program Files (x86)/NickelEngine"
+		}
+	},
+	"name" : "PhysXFoundation",
+	"nameOnDisk" : "libPhysXFoundation_static_32.a",
+	"paths" : 
+	{
+		"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/sdk_source_bin",
+		"source" : "engine/engine/3rdlibs/physx/physx/source/compiler/cmake"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "include",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69
+			]
+		},
+		{
+			"name" : "src",
+			"sourceIndexes" : 
+			[
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76
+			]
+		},
+		{
+			"name" : "src\\src\\unix",
+			"sourceIndexes" : 
+			[
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85
+			]
+		},
+		{
+			"name" : "include\\unix",
+			"sourceIndexes" : 
+			[
+				86,
+				87,
+				88,
+				89,
+				90,
+				91
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				92,
+				93,
+				94,
+				95
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxFoundation.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxAssert.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxFoundationConfig.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxMathUtils.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxAlignedMalloc.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxAllocatorCallback.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxProfiler.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxAoS.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxAlloca.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxAllocator.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxArray.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxAtomic.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxBasicTemplates.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxBitMap.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxBitAndData.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxBitUtils.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxBounds3.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxBroadcast.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxConstructor.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxErrorCallback.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxErrors.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxFlags.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxFPU.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxInlineAoS.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxIntrinsics.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxHash.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxHashInternals.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxHashMap.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxHashSet.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxInlineAllocator.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxInlineArray.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxPinnedArray.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxMathIntrinsics.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxMutex.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxIO.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxMat33.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxMat34.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxMat44.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxMath.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxMemory.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxPlane.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxPool.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxPreprocessor.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxQuat.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxPhysicsVersion.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxSortInternals.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxSimpleTypes.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxSList.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxSocket.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxSort.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxStrideIterator.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxString.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxSync.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxTempAllocator.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxThread.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxTransform.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxTime.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxUnionCast.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxUserAllocated.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxUtilities.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVec2.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVec3.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVec4.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVecMath.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVecMathAoSScalar.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVecMathAoSScalarInline.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVecMathSSE.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVecQuat.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxVecTransform.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/PxSIMDHelpers.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/FdAllocator.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/FdString.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/FdTempAllocator.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/FdAssert.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/FdMathUtils.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/FdFoundation.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/FdFoundation.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixAtomic.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixMutex.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixSync.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixThread.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixPrintString.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixSList.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixSocket.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixTime.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/source/foundation/unix/FdUnixFPU.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixMathIntrinsics.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixIntrinsics.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixAoS.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixInlineAoS.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixTrigConstants.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/PxUnixFPU.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/neon/PxUnixNeonAoS.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/neon/PxUnixNeonInlineAoS.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/sse2/PxUnixSse2AoS.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/include/foundation/unix/sse2/PxUnixSse2InlineAoS.h",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

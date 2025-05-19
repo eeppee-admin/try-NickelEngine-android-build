@@ -1,0 +1,360 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "engine/engine/3rdlibs/physx/physx/compiler/public/pvdruntime_bin/output/vc17win64/PhysX/bin/linux.aarch64/debug/libPVDRuntime_64.so"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"INCLUDE",
+			"TARGET_INCLUDE_DIRECTORIES"
+		],
+		"files" : 
+		[
+			"engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/PVDRuntime.cmake",
+			"engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/linux/CMakeLists.txt",
+			"engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 65,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 80,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 85,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -fno-rtti -fno-exceptions -ffunction-sections -fdata-sections -fvisibility=hidden -ffp-contract=off -fstrict-aliasing -ffp-exception-behavior=maytrap -ferror-limit=0 -Wall -Wextra -Werror -Weverything    -Wno-unused-but-set-variable     -Wno-switch-default     -Wno-cast-qual     -Wno-invalid-offsetof     -Wno-unsafe-buffer-usage     -Wno-alloca     -Wno-atomic-implicit-seq-cst     -Wno-c++98-compat-pedantic     -Wno-c++98-compat     -Wno-cast-align     -Wno-conversion     -Wno-covered-switch-default     -Wno-deprecated     -Wno-documentation-deprecated-sync     -Wno-documentation-unknown-command     -Wno-exit-time-destructors     -Wno-extra-semi-stmt     -Wno-float-equal     -Wno-format-nonliteral     -Wno-global-constructors     -Wno-implicit-fallthrough     -Wno-inconsistent-missing-destructor-override     -Wno-inconsistent-missing-override     -Wno-missing-noreturn     -Wno-missing-prototypes     -Wno-missing-variable-declarations     -Wno-newline-eof     -Wno-non-virtual-dtor     -Wno-old-style-cast     -Wno-padded     -Wno-reserved-id-macro     -Wno-suggest-destructor-override     -Wno-suggest-override     -Wno-switch-enum     -Wno-undef     -Wno-undefined-reinterpret-cast     -Wno-unknown-warning-option     -Wno-unreachable-code     -Wno-unused-function     -Wno-unused-macros     -Wno-unused-member-function     -Wno-unused-private-field     -Wno-used-but-marked-unused     -Wno-weak-template-vtables     -Wno-weak-vtables     -Wno-zero-as-null-pointer-constant     -Wno-reserved-identifier     -Wno-undefined-func-template  -O0 -g3 -gdwarf-2 -fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "PVDRuntime_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/pvdruntime/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/jni/engine/engine/3rdlibs/physx/physx/pvdruntime/src"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				14,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			}
+		}
+	],
+	"folder" : 
+	{
+		"name" : "PVDRuntime"
+	},
+	"id" : "PVDRuntime::@ae114534c4964f7541b5",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-static-libstdc++ -Wl,--build-id=sha1 -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-latomic -lm",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX",
+		"sysroot" : 
+		{
+			"path" : "C:/Users/fuckerfucker/AppData/Local/Android/Sdk/ndk/29.0.13113456/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+		}
+	},
+	"name" : "PVDRuntime",
+	"nameOnDisk" : "libPVDRuntime_64.so",
+	"paths" : 
+	{
+		"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/pvdruntime_bin",
+		"source" : "engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "include",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"name" : "src",
+			"sourceIndexes" : 
+			[
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdLibraryFunctions.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdCommands.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdDefines.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdReader.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdWriter.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdReadStream.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdWriteStream.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdFileReadStream.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdFileWriteStream.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdMemoryStream.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdLibraryHelpers.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdLoader.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdDefinesInternal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdHelpers.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdHelpers.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdLibraryFunctionsImpl.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdLog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdLog.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdReaderImpl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdReaderImpl.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdWriterImpl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdWriterImpl.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdFileReadStreamImpl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdFileReadStreamImpl.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdFileWriteStreamImpl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdFileWriteStreamImpl.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdMemoryStreamImpl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdMemoryStreamImpl.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdMemoryReadStreamImpl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdMemoryReadStreamImpl.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdMemoryWriteStreamImpl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "engine/engine/3rdlibs/physx/physx/pvdruntime/src/OmniPvdMemoryWriteStreamImpl.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

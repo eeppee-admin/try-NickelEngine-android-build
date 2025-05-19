@@ -1,0 +1,78 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/PVDRuntime.cmake",
+			"engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/linux/CMakeLists.txt",
+			"engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 65,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 4
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "pvdruntime/include",
+			"paths" : 
+			[
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdLibraryFunctions.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdCommands.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdDefines.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdReader.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdWriter.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdReadStream.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdWriteStream.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdFileReadStream.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdFileWriteStream.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdMemoryStream.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdLibraryHelpers.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdLoader.h",
+				"engine/engine/3rdlibs/physx/physx/pvdruntime/include/OmniPvdLoader.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "engine/engine/3rdlibs/physx/physx/compiler/public/pvdruntime_bin",
+		"source" : "engine/engine/3rdlibs/physx/physx/pvdruntime/compiler/cmake"
+	}
+}

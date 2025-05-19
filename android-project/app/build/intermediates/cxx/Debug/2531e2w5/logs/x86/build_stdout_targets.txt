@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\.cxx\Debug\2531e2w5\x86'
+ninja: no work to do.

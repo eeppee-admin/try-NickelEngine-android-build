@@ -1,0 +1,293 @@
+{
+  "buildFiles": [
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\cmake\\compile_shader.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\cmake\\target_category_helper.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\imgui\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\implot\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\blast\\3rdlibs\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\blast\\3rdlibs\\multiprecision\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\blast\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\pvdruntime\\compiler\\cmake\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\pvdruntime\\compiler\\cmake\\linux\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\pvdruntime\\compiler\\cmake\\linux\\PVDRuntime.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\pvdruntime\\compiler\\cmake\\PVDRuntime.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\LowLevel.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\LowLevelAABB.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\LowLevelDynamics.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysX.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXCharacterKinematic.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXCommon.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXCooking.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXExtensions.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXFoundation.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXPvdSDK.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXTask.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXVehicle.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\PhysXVehicle2.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\SceneQuery.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\linux\\SimulationController.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\LowLevel.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\LowLevelAABB.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\LowLevelDynamics.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\modules\\GetCompilerAndPlatform.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\modules\\NvidiaBuildOptions.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\modules\\SetOutputPaths.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysX.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXCharacterKinematic.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXCommon.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXCooking.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXExtensions.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXFoundation.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXPvdSDK.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXTask.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXVehicle.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\PhysXVehicle2.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\SceneQuery.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\physx\\physx\\source\\compiler\\cmake\\SimulationController.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\3rdparty.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\FindLibUSB.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\GetGitRevisionDescription.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\macros.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\PreseedEmscriptenCache.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\PreseedMSVCCache.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\SDL3Config.cmake.in",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\sdlchecks.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\sdlcompilers.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\sdlcpu.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\sdlmanpages.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\sdlplatform.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\cmake\\sdltargets.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\include\\build_config\\SDL_build_config.h.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\SDL\\include\\build_config\\SDL_revision.h.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\spdlog\\cmake\\ide.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\spdlog\\cmake\\utils.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\spdlog\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\stb\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\tinygltf\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\tomlplusplus\\cmake\\project-is-top-level.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\tomlplusplus\\cmake\\variables.cmake",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\tomlplusplus\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\3rdlibs\\volk\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\CMakeLists.txt",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\jni\\engine\\engine\\main_entry\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\fuckerfucker\\AppData\\Local\\Android\\Sdk\\cmake\\4.0.2\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\fuckerfucker\\AppData\\Local\\Android\\Sdk\\cmake\\4.0.2\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "NvBlast_Globals::@b1b915f14bc05578e70b": {
+      "artifactName": "NvBlast_Globals",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\blast\\libNvBlast_Globals.a",
+      "runtimeFiles": []
+    },
+    "PhysXVehicle::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXVehicle",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysXVehicle_static_32.a",
+      "runtimeFiles": []
+    },
+    "tinygltf::@7aa12bb7dfe039b232ab": {
+      "artifactName": "tinygltf",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\tinygltf\\libtinygltf.a",
+      "runtimeFiles": []
+    },
+    "PhysXTask::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXTask",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "SDL3-shared::@1cd194ea766763682374": {
+      "artifactName": "SDL3-shared",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\build\\intermediates\\cxx\\Debug\\6wn114it\\obj\\armeabi-v7a\\libSDL3.so",
+      "runtimeFiles": []
+    },
+    "LowLevel::@bf751d193ff8fef5a3bd": {
+      "artifactName": "LowLevel",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "imgui::@fa6fe862e10edc6eaade": {
+      "artifactName": "imgui",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\imgui\\libimgui.a",
+      "runtimeFiles": []
+    },
+    "volk::@ede4fbc9072fe350e562": {
+      "artifactName": "volk",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\volk\\libvolk.a",
+      "runtimeFiles": []
+    },
+    "NickelEngine-Main::@0e0d13d726e43f2cabe5": {
+      "artifactName": "NickelEngine-Main",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\main_entry\\libNickelEngine-Main.a",
+      "runtimeFiles": []
+    },
+    "PhysXCooking::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXCooking",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysXCooking_static_32.a",
+      "runtimeFiles": []
+    },
+    "PVDRuntime::@ae114534c4964f7541b5": {
+      "artifactName": "PVDRuntime",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\pvdruntime_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPVDRuntime_32.so",
+      "runtimeFiles": []
+    },
+    "PhysXCharacterKinematic::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXCharacterKinematic",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysXCharacterKinematic_static_32.a",
+      "runtimeFiles": []
+    },
+    "PhysXPvdSDK::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXPvdSDK",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysXPvdSDK_static_32.a",
+      "runtimeFiles": []
+    },
+    "implot::@24dbca4e4708a602d71f": {
+      "artifactName": "implot",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\implot\\libimplot.a",
+      "runtimeFiles": []
+    },
+    "PhysX::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysX",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysX_static_32.a",
+      "runtimeFiles": []
+    },
+    "stb_image::@080ffbc5d6b848e90ff9": {
+      "artifactName": "stb_image",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\stb\\libstb_image.a",
+      "runtimeFiles": []
+    },
+    "PhysXCommon::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXCommon",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysXCommon_static_32.a",
+      "runtimeFiles": []
+    },
+    "NvBlast_ExtAssetUtils::@b1b915f14bc05578e70b": {
+      "artifactName": "NvBlast_ExtAssetUtils",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\blast\\libNvBlast_ExtAssetUtils.a",
+      "runtimeFiles": []
+    },
+    "NvBlast_ExtAuthoring::@b1b915f14bc05578e70b": {
+      "artifactName": "NvBlast_ExtAuthoring",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\blast\\libNvBlast_ExtAuthoring.a",
+      "runtimeFiles": []
+    },
+    "spdlog::@2ed0c500bed5f0b593cf": {
+      "artifactName": "spdlog",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\spdlog\\libspdlogd.a",
+      "runtimeFiles": []
+    },
+    "NvBlast_LowLevel::@b1b915f14bc05578e70b": {
+      "artifactName": "NvBlast_LowLevel",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\blast\\libNvBlast_LowLevel.a",
+      "runtimeFiles": []
+    },
+    "PhysXExtensions::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXExtensions",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysXExtensions_static_32.a",
+      "runtimeFiles": []
+    },
+    "SceneQuery::@bf751d193ff8fef5a3bd": {
+      "artifactName": "SceneQuery",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "NickelEngine-shared::@4068fd50aead16c92a5c": {
+      "artifactName": "NickelEngine-shared",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\build\\intermediates\\cxx\\Debug\\6wn114it\\obj\\armeabi-v7a\\libNickelEngine-shared.so",
+      "runtimeFiles": [
+        "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\build\\intermediates\\cxx\\Debug\\6wn114it\\obj\\armeabi-v7a\\libSDL3.so"
+      ]
+    },
+    "NvBlast_ExtStress::@b1b915f14bc05578e70b": {
+      "artifactName": "NvBlast_ExtStress",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\blast\\libNvBlast_ExtStress.a",
+      "runtimeFiles": []
+    },
+    "PhysXFoundation::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXFoundation",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysXFoundation_static_32.a",
+      "runtimeFiles": []
+    },
+    "PhysXVehicle2::@bf751d193ff8fef5a3bd": {
+      "artifactName": "PhysXVehicle2",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\UNKNOWN\\debug\\libPhysXVehicle2_static_32.a",
+      "runtimeFiles": []
+    },
+    "LowLevelDynamics::@bf751d193ff8fef5a3bd": {
+      "artifactName": "LowLevelDynamics",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "LowLevelAABB::@bf751d193ff8fef5a3bd": {
+      "artifactName": "LowLevelAABB",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "SDL_uclibc::@1cd194ea766763682374": {
+      "artifactName": "SDL_uclibc",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\SDL\\libSDL_uclibc.a",
+      "runtimeFiles": []
+    },
+    "NvBlast_Tk::@b1b915f14bc05578e70b": {
+      "artifactName": "NvBlast_Tk",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\blast\\libNvBlast_Tk.a",
+      "runtimeFiles": []
+    },
+    "NvBlast_ExtShaders::@b1b915f14bc05578e70b": {
+      "artifactName": "NvBlast_ExtShaders",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\6wn114it\\armeabi-v7a\\engine\\engine\\3rdlibs\\physx\\blast\\libNvBlast_ExtShaders.a",
+      "runtimeFiles": []
+    },
+    "SimulationController::@bf751d193ff8fef5a3bd": {
+      "artifactName": "SimulationController",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    }
+  }
+}
