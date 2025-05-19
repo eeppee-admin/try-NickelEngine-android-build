@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import org.libsdl.app.SDLActivity;
 
+
+
+
+// TODO
 public class NickelengineActivity extends SDLActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

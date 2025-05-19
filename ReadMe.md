@@ -1,6 +1,6 @@
 > [!WARNING]  
 > God Damn, 今天花了我3小时才运行起来, 一些local.properties和cmake sdl3配置
-效果
+效果,NickelengineActivity是运行入口?
 ![alt text](image.png)
 
 
