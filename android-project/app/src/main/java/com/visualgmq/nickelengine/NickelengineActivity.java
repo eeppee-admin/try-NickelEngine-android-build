@@ -19,6 +19,6 @@ public class NickelengineActivity extends SDLActivity {
 
         System.out.println("hello world");
 
-        int a = 1 / 0;
+        // int a = 1 / 0;
     }
 }
