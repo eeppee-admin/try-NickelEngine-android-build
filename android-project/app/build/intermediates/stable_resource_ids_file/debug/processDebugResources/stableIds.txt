@@ -1,7 +1,7 @@
-com.visualgmq.nickelengine:layout/activity_main = 0x7f050000
-com.visualgmq.nickelengine:style/AppTheme = 0x7f040000
-com.visualgmq.nickelengine:color/colorPrimary = 0x7f010001
-com.visualgmq.nickelengine:mipmap/ic_launcher = 0x7f020000
+com.visualgmq.nickelengine:string/app_name = 0x7f040000
 com.visualgmq.nickelengine:color/colorPrimaryDark = 0x7f010002
-com.visualgmq.nickelengine:string/app_name = 0x7f030000
+com.visualgmq.nickelengine:mipmap/ic_launcher = 0x7f030000
+com.visualgmq.nickelengine:style/AppTheme = 0x7f050000
+com.visualgmq.nickelengine:layout/activity_main = 0x7f020000
+com.visualgmq.nickelengine:color/colorPrimary = 0x7f010001
 com.visualgmq.nickelengine:color/colorAccent = 0x7f010000

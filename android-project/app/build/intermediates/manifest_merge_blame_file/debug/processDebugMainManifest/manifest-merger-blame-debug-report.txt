@@ -107,57 +107,56 @@
 84-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:71:9-43
 85        android:label="@string/app_name"
 85-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:70:18-50
-86        android:testOnly="true"
-87        android:theme="@style/AppTheme" >
-87-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:73:9-40
-88
-89        <!--
-90        Example of setting SDL hints from AndroidManifest.xml:
-91        <meta-data android:name="SDL_ENV.SDL_ANDROID_TRAP_BACK_BUTTON" android:value="0"/>
-92        -->
-93
-94        <activity
-94-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:80:9-104:20
-95            android:name="com.visualgmq.nickelengine.NickelengineActivity"
-95-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:80:19-54
-96            android:alwaysRetainTaskState="true"
-96-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:82:13-49
-97            android:configChanges="layoutDirection|locale|grammaticalGender|fontScale|fontWeightAdjustment|orientation|uiMode|screenLayout|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
-97-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:84:13-205
-98            android:exported="true"
-98-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:86:13-36
-99            android:label="@string/app_name"
-99-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:81:13-45
-100            android:launchMode="singleInstance"
-100-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:83:13-48
-101            android:preferMinimalPostProcessing="true" >
-101-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:85:13-55
-102            <intent-filter>
-102-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:88:13-91:29
-103                <action android:name="android.intent.action.MAIN" />
-103-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:89:17-69
-103-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:89:25-66
-104
-105                <category android:name="android.intent.category.LAUNCHER" />
-105-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:90:17-77
-105-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:90:27-74
-106            </intent-filter>
-107            <!-- Let Android know that we can handle some USB devices and should receive this event -->
-108            <intent-filter>
-108-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:93:13-95:29
-109                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
-109-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:94:17-90
-109-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:94:25-87
-110            </intent-filter>
-111            <!-- Drop file event -->
-112            <!--
-113            <intent-filter>
-114                <action android:name="android.intent.action.VIEW" />
-115                <category android:name="android.intent.category.DEFAULT" />
-116                <data android:mimeType="*/*" />
-117            </intent-filter>
-118            -->
-119        </activity>
-120    </application>
-121
-122</manifest>
+86        android:theme="@style/AppTheme" >
+86-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:73:9-40
+87
+88        <!--
+89        Example of setting SDL hints from AndroidManifest.xml:
+90        <meta-data android:name="SDL_ENV.SDL_ANDROID_TRAP_BACK_BUTTON" android:value="0"/>
+91        -->
+92
+93        <activity
+93-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:80:9-104:20
+94            android:name="com.visualgmq.nickelengine.NickelengineActivity"
+94-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:80:19-54
+95            android:alwaysRetainTaskState="true"
+95-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:82:13-49
+96            android:configChanges="layoutDirection|locale|grammaticalGender|fontScale|fontWeightAdjustment|orientation|uiMode|screenLayout|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+96-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:84:13-205
+97            android:exported="true"
+97-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:86:13-36
+98            android:label="@string/app_name"
+98-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:81:13-45
+99            android:launchMode="singleInstance"
+99-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:83:13-48
+100            android:preferMinimalPostProcessing="true" >
+100-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:85:13-55
+101            <intent-filter>
+101-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:88:13-91:29
+102                <action android:name="android.intent.action.MAIN" />
+102-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:89:17-69
+102-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:89:25-66
+103
+104                <category android:name="android.intent.category.LAUNCHER" />
+104-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:90:17-77
+104-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:90:27-74
+105            </intent-filter>
+106            <!-- Let Android know that we can handle some USB devices and should receive this event -->
+107            <intent-filter>
+107-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:93:13-95:29
+108                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+108-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:94:17-90
+108-->C:\Users\fuckerfucker\Desktop\NickelEngine\android-project\app\src\main\AndroidManifest.xml:94:25-87
+109            </intent-filter>
+110            <!-- Drop file event -->
+111            <!--
+112            <intent-filter>
+113                <action android:name="android.intent.action.VIEW" />
+114                <category android:name="android.intent.category.DEFAULT" />
+115                <data android:mimeType="*/*" />
+116            </intent-filter>
+117            -->
+118        </activity>
+119    </application>
+120
+121</manifest>

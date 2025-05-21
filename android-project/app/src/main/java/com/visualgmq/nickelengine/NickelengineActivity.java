@@ -16,5 +16,9 @@ public class NickelengineActivity extends SDLActivity {
 
         // todo: make layout here
         setContentView(R.layout.activity_main);
+
+        System.out.println("hello world");
+
+        int a = 1 / 0;
     }
 }

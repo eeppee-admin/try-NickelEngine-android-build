@@ -107,6 +107,12 @@
       "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\2531e2w5\\x86_64\\engine\\engine\\3rdlibs\\physx\\physx\\compiler\\public\\sdk_source_bin\\output\\vc17win64\\PhysX\\bin\\linux.x86_64\\debug\\libPhysXVehicle_static_64.a",
       "runtimeFiles": []
     },
+    "main::@6890427a1f51a3e7e1df": {
+      "artifactName": "main",
+      "abi": "x86_64",
+      "output": "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\build\\intermediates\\cxx\\Debug\\2531e2w5\\obj\\x86_64\\libmain.so",
+      "runtimeFiles": []
+    },
     "tinygltf::@7aa12bb7dfe039b232ab": {
       "artifactName": "tinygltf",
       "abi": "x86_64",

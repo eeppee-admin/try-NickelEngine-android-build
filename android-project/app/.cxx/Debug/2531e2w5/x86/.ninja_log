@@ -241,3 +241,5 @@
 5539	5807	7693754139688838	engine/engine/3rdlibs/SDL/CMakeFiles/SDL3-shared.dir/src/tray/dummy/SDL_tray.c.o	75445c54ecb77469
 5615	5878	7693754140431739	engine/engine/3rdlibs/SDL/libSDL_uclibc.a	248d119e327282f0
 5878	7248	7693754143052261	C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/build/intermediates/cxx/Debug/2531e2w5/obj/x86/libSDL3.so	41b3290b3b9e9f99
+81	1012	7695142908430436	CMakeFiles/main.dir/main.cpp.o	81e2477d6b35841e
+1016	1136	7695142917776351	C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/build/intermediates/cxx/Debug/2531e2w5/obj/x86/libmain.so	87ce67694b2fd985

@@ -1,3 +1,4 @@
+C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/armeabi-v7a/CMakeFiles/main.dir
 C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/armeabi-v7a/CMakeFiles/edit_cache.dir
 C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
 C:/Users/fuckerfucker/Desktop/NickelEngine/android-project/app/.cxx/Debug/2531e2w5/armeabi-v7a/CMakeFiles/list_install_components.dir

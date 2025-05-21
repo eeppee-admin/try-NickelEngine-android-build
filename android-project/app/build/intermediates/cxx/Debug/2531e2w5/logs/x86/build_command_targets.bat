@@ -3,4 +3,5 @@
   -C ^
   "C:\\Users\\fuckerfucker\\Desktop\\NickelEngine\\android-project\\app\\.cxx\\Debug\\2531e2w5\\x86" ^
   PVDRuntime ^
-  SDL3-shared
+  SDL3-shared ^
+  main

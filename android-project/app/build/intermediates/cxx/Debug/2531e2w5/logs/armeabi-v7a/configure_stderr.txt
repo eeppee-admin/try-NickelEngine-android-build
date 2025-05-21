@@ -38,7 +38,7 @@ CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLi
   has 194 characters.  The maximum full path to an object file is 250
   characters (see CMAKE_OBJECT_PATH_MAX).  Object file
 
-    __/__/lowleveldynamics/src/DyFeatherstoneInverseDynamic.cpp.o
+    __/__/lowleveldynamics/src/DyFeatherstoneArticulation.cpp.o
 
   cannot be safely placed under this directory.  The build may not work
   correctly.
@@ -52,7 +52,7 @@ CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLi
   has 198 characters.  The maximum full path to an object file is 250
   characters (see CMAKE_OBJECT_PATH_MAX).  Object file
 
-    __/__/simulationcontroller/src/ScArticulationTendonCore.cpp.o
+    __/__/simulationcontroller/src/ScTriggerInteraction.cpp.o
 
   cannot be safely placed under this directory.  The build may not work
   correctly.
@@ -94,7 +94,7 @@ CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLi
   has 201 characters.  The maximum full path to an object file is 250
   characters (see CMAKE_OBJECT_PATH_MAX).  Object file
 
-    2d74214308300fbd8b2b4278f621c8fa/CctCharacterControllerManager.cpp.o
+    2d74214308300fbd8b2b4278f621c8fa/CctBoxController.cpp.o
 
   cannot be safely placed under this directory.  The build may not work
   correctly.
@@ -108,7 +108,7 @@ CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLi
   has 189 characters.  The maximum full path to an object file is 250
   characters (see CMAKE_OBJECT_PATH_MAX).  Object file
 
-    __/__/geomutils/src/intersection/GuIntersectionCapsuleTriangle.cpp.o
+    __/__/geomutils/src/intersection/GuIntersectionRayCapsule.cpp.o
 
   cannot be safely placed under this directory.  The build may not work
   correctly.
@@ -136,7 +136,7 @@ CMake Warning in engine/engine/3rdlibs/physx/physx/source/compiler/cmake/CMakeLi
   has 191 characters.  The maximum full path to an object file is 250
   characters (see CMAKE_OBJECT_PATH_MAX).  Object file
 
-    bd77b3cb8fdf033e2edc42a56adbcd19/VhDrivetrainFunctions.cpp.o
+    1666f6ea4a3ba7a1af33215d5f224af7/VhPhysXRoadGeometryFunctions.cpp.o
 
   cannot be safely placed under this directory.  The build may not work
   correctly.
